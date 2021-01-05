@@ -1,0 +1,3 @@
+This is the link for Cisco documentation for VRF.
+
+https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cucme/vrf/design/guide/vrfDesignGuide.html
